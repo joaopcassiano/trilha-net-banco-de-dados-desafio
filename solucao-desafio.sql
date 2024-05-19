@@ -92,7 +92,7 @@ SELECT
 	Genero
 FROM 
     Filmes
-INNER JOIN Generos ON Filmes.Id = Generos.Id WHERE Genero = 'Mistério'
+INNER JOIN Generos ON Filmes.Id = Generos.Id WHERE Genero = 'MistÃ©rio'
 
 --12
 SELECT 
